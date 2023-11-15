@@ -2,7 +2,9 @@
 
 
 
-**REPORT**
+**REPORT**:
+
+
 The purpose of the analysis is to build and optimize a neural network model for binary classification on a dataset related to Alphabet Soup-funded organizations. 
 Above is the breakdown of the steps: 
 
